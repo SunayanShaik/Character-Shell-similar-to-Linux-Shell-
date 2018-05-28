@@ -8,8 +8,9 @@ Shell accepts the following commands:
 
 • pwd - Print the current working directory.
 
-• cd <dir name> - Change the current directory to the specified directory. Accept a relative (not absolute) directory name. 
-  Accept ".." (move to the parent directory of the current directory.)
+• cd <dir name> - Change the current directory to the specified directory. 
+                  Accept a relative (not absolute) directory name. 
+                  Accept ".." (move to the parent directory of the current directory.)
 
 • cd - Change the current directory to the root directory.
 
