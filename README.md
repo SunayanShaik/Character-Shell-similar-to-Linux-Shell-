@@ -8,8 +8,8 @@ Shell accepts the following commands:
 
 • pwd - Print the current working directory.
 
-• cd <dir name> - Change the current directory to the specified directory. Accept a relative (not absolute) directory name. Accept “..”
-(move to the parent directory of the current directory.)
+• cd <dir name> - Change the current directory to the specified directory. Accept a relative (not absolute) directory name. 
+  Accept ".." (move to the parent directory of the current directory.)
 
 • cd - Change the current directory to the root directory.
 
@@ -17,7 +17,7 @@ Shell accepts the following commands:
 
 • dir - Print the information (i.e., kind, name, size and owner) of every file, directory and link in the current directory.
 
-• dir <dir/file name> - Print the specified directory’s/file’s information. Accept relative (not absolute) directory name. Accept “..”
+• dir <dir/file name> - Print the specified directory’s/file’s information. Accept relative (not absolute) directory name. Accept ".."
 
 • mkdir <dir name> - Make the specified directory in the current directory.
 
