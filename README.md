@@ -2,6 +2,8 @@
 
 Character-based Shell implementation using Facade design pattern. 
 
+# Shell Commands
+
 Shell accepts the following commands:
 
 • pwd - Print the current working directory.
