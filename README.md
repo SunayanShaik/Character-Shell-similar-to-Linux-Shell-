@@ -2,6 +2,10 @@
 
 Character-based Shell implementation using Facade design pattern. 
 
+# Shell Application #
+
+ ![Shell Demo](https://github.com/SunayanShaik/Character-Shell-similar-to-Linux-Shell-/blob/master/CUIShell.gif?raw=true)
+
 # Shell Commands
 
 Shell accepts the following commands:
